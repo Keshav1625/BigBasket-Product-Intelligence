@@ -62,3 +62,17 @@ To demonstrate an end-to-end data analytics workflow using Python, Excel, SQL an
 
 ## Important Dataset Limitation
 This dataset represents a product catalogue, not transaction-level sales data. Therefore, this project focuses on catalogue, pricing, discount and rating analysis rather than actual revenue or customer purchasing behaviour.
+
+## 📊 Power BI Dashboard Preview
+
+### Page 1 – Executive Overview
+![Executive Overview](Screenshots/Page1.png)
+
+### Page 2 – Category & Subcategory Analysis
+![Category Analysis](Screenshots/Page2.png)
+
+### Page 3 – Brand & Rating Analysis
+![Brand Analysis](Screenshots/Page3.png)
+
+### Page 4 – Pricing & Discount Analysis
+![Pricing Analysis](Screenshots/Page4.png)
